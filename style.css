@@ -1,0 +1,38 @@
+body{
+background-image: url("background-5035258_1280.webp");
+}
+.nombre{
+    color: white;
+    border: 3px solid wheat;
+    width: 14%;
+    padding: 8px;
+}
+.LISTA1{
+    color: white;
+    font-size: 35px ;
+    border: 2px solid skyblue;
+    width: 50%;
+    padding: 2%;
+}
+.imglogo{
+    width: 55px;
+    vertical-align: middle;
+}
+.texto{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    color: azure;
+    border: 2px solid violet;
+    padding: 2%;
+    width: 50%;
+
+}
+.LISTA2{
+    border: 2px solid red;
+    width: 54%;
+    color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding: 1%;
+
+}
